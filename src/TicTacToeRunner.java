@@ -31,7 +31,6 @@ public static void main(String[] args) {
                 p = 'O';
             else
                 p = 'X';
-
         }
 
         ttt.displayBoard();
